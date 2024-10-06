@@ -188,13 +188,13 @@ window.onload = function(){
 		// first pawn
 		block(
 			{showThreat:'p'},
-			'',
-			'',
-			'    p',
-			'',
-			'',
-			'',
-			'',
+			'   p',
+			'  pp',
+			' p',
+			' p p',
+			'  pp',
+			'  ppp',
+			'      p',
 			''
 		);
 
