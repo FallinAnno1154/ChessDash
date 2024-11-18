@@ -1,4 +1,4 @@
-import {level} from '/chesspursuit.js'
+import {level} from '/levels.js'
 window.onload = function(){
 	"use strict";
 
@@ -172,7 +172,7 @@ window.onload = function(){
 		var currentRowIndex = 0;
 
 		//0 TODO: intro: first pawn
-		level()
+		level('chesspursuit')
         lastRowIndex = currentRowIndex;
 
 		if(startCheckPointIndex === 0){
