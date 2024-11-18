@@ -172,7 +172,7 @@ window.onload = function(){
 		var currentRowIndex = 0;
 
 		//0 TODO: intro: first pawn
-		level('chesspursuit')
+		level('1')
         lastRowIndex = currentRowIndex;
 
 		if(startCheckPointIndex === 0){
